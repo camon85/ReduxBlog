@@ -20,6 +20,5 @@ export function createPost(props) {
     return {
         type: CREATE_POST,
         payload: request,
-
     }
 }
